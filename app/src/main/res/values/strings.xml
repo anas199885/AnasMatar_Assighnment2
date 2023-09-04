@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignmentNo2</string>
+    <string name="your_order_successfully_completed">Your order successfully completed</string>
+    <string name="confirm">Confirm</string>
+    <string name="checkout">Checkout</string>
+    <string name="welcome_to_our_smartphone_business">Welcome to our smartphone business!</string>
+</resources>
